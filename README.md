@@ -12,6 +12,11 @@ This project introduces a React-based web application that functions as a AI cha
 - React-based Development: Leverages React's efficient component-based approach for building the application.
 - CSS Styling: Employs CSS to style the user interface for visual appeal and usability.
 
+[![Watch the Features Display Video on YouTube](https://img.youtube.com/vi/CF5FSXq1P80/maxresdefault.jpg)](https://youtu.be/CF5FSXq1P80)
+
+
 ## Installation
 1. Clone this repository:
 git clone https://github.com/YaseenSadat/GenieAI.git
+In the terminal enter: npm run dev
+copy local host link into browser
