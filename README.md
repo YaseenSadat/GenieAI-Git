@@ -12,6 +12,7 @@ This project introduces a React-based web application that functions as a AI cha
 - React-based Development: Leverages React's efficient component-based approach for building the application.
 - CSS Styling: Employs CSS to style the user interface for visual appeal and usability.
 
+## Video of Feature Display
 [![Watch the Features Display Video on YouTube](https://img.youtube.com/vi/CF5FSXq1P80/maxresdefault.jpg)](https://youtu.be/CF5FSXq1P80)
 
 
