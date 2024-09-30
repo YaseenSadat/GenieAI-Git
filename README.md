@@ -17,7 +17,6 @@ This project introduces a React-based web application that functions as a AI cha
 
 
 ## Installation
-1. Clone this repository:
-git clone https://github.com/YaseenSadat/GenieAI.git
-In the terminal enter: npm run dev
-copy local host link into browser
+1. Clone this repository: git clone https://github.com/YaseenSadat/GenieAI.git
+2. In the terminal enter: npm run dev
+3. copy local host link into browser
